@@ -1,3 +1,6 @@
-# Start your docs here.
-
-# See Volt docs at https://github.com/voltrb/volt/blob/master/Readme.md
+* Clone it.
+* cd into the directory and it should create a todos_gemset.
+* install mongodb (brew install mongodb)
+* Start mongodb (mongod)
+* Start the volt server (volt s)
+* Hit localhost:3000 in a browser
